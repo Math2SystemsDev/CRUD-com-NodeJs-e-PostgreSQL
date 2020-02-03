@@ -2,7 +2,7 @@
 Um crud simples com nodejs e postgresql.
 
 # Objetivos:
-- Desenvolver um sistema de cadastro, inserção, atualização, leitura e destruição de dados usando nodejs e postgresql.
+- Desenvolver um script de cadastro, inserção, atualização, leitura e destruição de dados usando nodejs e postgresql.
 - Criar as devidas queries SQL para o banco de dados.
 
 Matricular determinados alunos em determinadas aulas usando o comando INSERT INTO: 
